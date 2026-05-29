@@ -1,0 +1,3 @@
+- Refine styling: minima seems not to be working well. Page is basic black and white text. 
+- Improve definition of linking structure.
+- Define how backlinks in content work: e.g., link to Breland page from St. Alberich page. 

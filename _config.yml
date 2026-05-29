@@ -1,0 +1,9 @@
+title: "Encyclopedia Ambura"
+description: "A static reference guide for Ambura."
+baseurl: ""
+url: "http://example.com"
+theme: "minima"
+# defaultFileName: "default.html" 
+collections:
+  terms:
+    output: true  # This tells Jekyll to generate a list/index for this collection
