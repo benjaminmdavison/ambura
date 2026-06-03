@@ -1,3 +1,7 @@
+---
+title: "Achievements"
+---
+
 # Achievements
 
 ## Side Quest Completions

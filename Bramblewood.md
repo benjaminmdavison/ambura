@@ -1,3 +1,8 @@
+---
+title: "Bramblewood"
+category: "Geography"
+---
+
 # Geography and Climate
 
 Bramblewood is a Halfling village located in a large, thick forest in the [[Sea of Grass]]. It is about twenty miles west of the [[Free City of Porphyrium]]. 

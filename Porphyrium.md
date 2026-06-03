@@ -1,3 +1,8 @@
+---
+title: "The Free City of Porphyrium"
+category: "Geography"
+---
+
 Continue west on the [[River of Diamonds]], across the floodplains, and you come to the Free City of Porphyrium. Porphyrium sits astride an ever-shifting network of small rivers, wetlands, and floodplains, anchored to the enormous, muddy [[River Twain]], which runs southwest to the sea from the [[Borovian Mountains]]. 
 
 Technically not free, this city is in fact ruled by the fourth son of King Phillip, Lord [[Geoffrey Wyrmbane, the Strong]]. The Free City has made overtures of secession in the past, and proudly pretends not to be part of the kingdom, but Geoff maintains order in the fashion expected of him by the King.

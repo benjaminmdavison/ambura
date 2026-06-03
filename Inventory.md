@@ -1,3 +1,7 @@
+---
+title: "Inventory"
+---
+
 # Inventory Items
 
 ## General: 
