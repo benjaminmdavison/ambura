@@ -3,6 +3,31 @@ title: "The Free City of Porphyrium"
 category: "Geography"
 ---
 
+# Neighborhoods
+
+The River Twain divides Porphyrium in two. The Eastern District, The Den, and Bookgrove sit on the eastern shore; The Western District, Shoreditch, and the Boring Quarter sit on the western side. 
+
+**Eastern District** 
+- Contains the Temple of Thoth, a large, Roman-style forum building where locals exchange all manner of knowledge. 
+
+**The Den**
+The Den is a shady commercial district, just southeast of the Eastern District. You can probably find anything you want here - for a price. 
+
+**Bookgrove**
+Bookgrove is a dense but charming neighborhood directly south of the Eastern District.  filled with bookshops, magical and mundane. Printing presses, mage towers, guild halls, and shops selling a variety of esoteric and magical stuff line the streets of this neighborhood. 
+
+**The Western District**
+This district houses Fort Silt, home to Lord Geoffrey Wyrmbane, The Strong. It also contains piers, warehouses, boatmakers, and other maritime industries and facilities.
+
+
+**Shoreditch**
+Shoreditch is north of the Western District. It is home to a wide assortment of inns and shops, as well as plenty of warehouses and halls of commerce. Oh, and bars. A lot of bars. 
+
+**The Boring Quarter**
+Mostly residential. Heavily patrolled by local guards. 
+
+# Overview
+
 Continue west on the [[River of Diamonds]], across the floodplains, and you come to the Free City of Porphyrium. Porphyrium sits astride an ever-shifting network of small rivers, wetlands, and floodplains, anchored to the enormous, muddy [[River Twain]], which runs southwest to the sea from the [[Borovian Mountains]]. 
 
 Technically not free, this city is in fact ruled by the fourth son of King Phillip, Lord [[Geoffrey Wyrmbane, the Strong]]. The Free City has made overtures of secession in the past, and proudly pretends not to be part of the kingdom, but Geoff maintains order in the fashion expected of him by the King.
