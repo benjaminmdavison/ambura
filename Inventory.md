@@ -11,9 +11,12 @@ title: "Inventory"
 - Plush Bedroll
 - Weather-resistant tent
 - Weather-resistant gear: boots, hat, gloves, overcoat
-- Contact card for Captain Lars Stone-Singer
 
-## Potions
+## Notes:
+- Contact card for Captain Lars Stone-Singer
+- 'Get the books from the halflings. - red'
+
+## Potions:
 - 1 Halfling Healing Potion: 1d12+2
 - 1 Ragbert's Rallying Rum: Removes 1 level of exhaustion.
 - 1 Chicken Chaser: cure-all potion. 
