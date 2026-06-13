@@ -1,8 +1,8 @@
 ---
 title: "The Flinger"
-category: "Geography"
+category: "Artifacts"
 date: 2026-05-31
-tags: ["geography", "core"]
+tags: ["artifacts", "core"]
 ---
 Developed by [[Placius Bottlenock]], the The Flinger is an unusual new weapon that is being tested by the soldiers of [[Solomon New-Dawn]]. It consists of two handlebars that are attached to a rotating apparatus mounted on a helmet, a gunsight, and a four-foot-long metal barrel. Atop the barrel is a rectangular box containing six specially-crafted spears. The barrel is connected via a fine pipe to a metal cylinder worn on the back of the soldier. 
 

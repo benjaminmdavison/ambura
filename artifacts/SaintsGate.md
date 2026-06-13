@@ -1,8 +1,8 @@
 ---
 title: "Saints Gate"
-category: "Geography"
+category: "Artifacts"
 date: 2026-05-31
-tags: ["geography", "core"]
+tags: ["artifacts", "core"]
 ---
 The Saint’s Gate is a large archway leading into [[Saint's Rest]], the fort at the center of [[St. Alberich]]. The Gate emanates a strange energy to those attuned to magic. It appears to be made of a polished iron alloy, but it hums with a strange energy and occasionally glimmers with color. It radiates cold, sometimes even emitting a cold mist. Colors periodically shimmer and dart across the surface of the gate; at night, it beautifully reflects the stars and the moons.
 
