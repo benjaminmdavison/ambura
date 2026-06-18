@@ -3,7 +3,14 @@ title: "Session Notes"
 ---
 # Campaign History:
 
-Zoong Pewterleaf, a halfling from Bramblewood, has been sent out on a mysterious errand by Gran: he must go to the mysterious land of St. Alberich to seek his fate. His companion on this journey is Heingveir Rock-Borer, a Dwarven devotee of the creator god Ptah. They've left the Free City of Porphyrium on a delivery job to earn some gold. Along the road, they were stalked by two thugs, who were sent after them by "Faldbar the Red."
+Zoong Pewterleaf, a halfling from Bramblewood, has been sent out on a mysterious errand by Gran: he must go to the mysterious land of St. Alberich to seek his fate. His companion on this journey is Heingveir Rock-Borer, a Dwarven devotee of the creator god Ptah. They are currently aboard the *Seadream Chaser* readying to depart for St. Alberich. 
+
+# June 16-17, 2025
+Zoong and Heingveir ventured into The Crossroads and delivered their package to Gunzar. It turns out to be a smuggled spell tome. The party rests at a local inn, only to be caught up in some kind of civil unrest. Imps and a devil were spotted among the affray.
+
+On the journey home, a dragon was spotted in the sky. The city of Porphyrium is abuzz with the news of dragons and the chaos at The Crossroads. The party learned about the lore of the ancient dragons, and learned that a local mad wizard named Faldbar the Red may be responsible for the return of *Falt-bath-ar-zet-ghul-pheng*, a dreaded Ancient dragon. 
+
+The party then boarded the *Seadream Chaser* to journey to St. Alberich. 
 
 # June 10, 2026
 ## Endpoint:

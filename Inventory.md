@@ -6,7 +6,8 @@ title: "Inventory"
 
 ## General: 
 
-- Charm of the Lightfoot: grants +1 to any CHA check, after dice roll, once per long rest. 
+- Charm of the Lightfoot: grants +1 to any CHA check, after dice roll, once per long rest.
+- Amulet of Aura: grants wearer 1 additional highest spell slot.  
 - Dwarven Teapot: very durable, tea service for 4. 
 - Plush Bedroll
 - Weather-resistant tent
