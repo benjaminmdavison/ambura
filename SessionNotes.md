@@ -3,7 +3,7 @@ title: "Session Notes"
 ---
 # Campaign History:
 
-Zoong Pewterleaf, a halfling from Bramblewood, has been sent out on a mysterious errand by Gran: he must go to the mysterious land of St. Alberich to seek his fate. His companion on this journey is Heingveir Rock-Borer, a Dwarven devotee of the creator god Ptah. They are currently aboard the *Seadream Chaser* readying to depart for St. Alberich. 
+Zoong Pewterleaf, a halfling from Bramblewood, has been sent out on a mysterious errand by Gran: he must go to the mysterious land of St. Alberich to seek his fate. His companion on this journey is Heingveir Rock-Borer, a Dwarven devotee of the creator god Ptah. They are currently aboard the *Seadream Chaser* readying to depart for St. Alberich. Who knows where this journey will take them. 
 
 # June 16-17, 2025
 Zoong and Heingveir ventured into The Crossroads and delivered their package to Gunzar. It turns out to be a smuggled spell tome. The party rests at a local inn, only to be caught up in some kind of civil unrest. Imps and a devil were spotted among the affray.
